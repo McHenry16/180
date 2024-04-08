@@ -1,5 +1,3 @@
-# This is the repo for ITSCM 180
-# This is the README file for the dev branch
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
